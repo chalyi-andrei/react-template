@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font: 15px Arial, sans-serif;
+}
+
+.header {
+    border: 1px solid #777;
+    padding: 10px 0;
+}
+.header__inner {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.header__name {
+    color: #212121;
+    font-size: 18px;
+    text-decoration: none;
+}
+.header__login {
+    color: #212121;
+    text-decoration: none;
+}

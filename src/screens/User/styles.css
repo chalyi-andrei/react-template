@@ -1,0 +1,12 @@
+
+.header__spinner-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 45vh;
+}
+
+.users {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
